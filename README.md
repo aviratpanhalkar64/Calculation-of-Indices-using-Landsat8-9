@@ -1,1 +1,1 @@
-# Calculation-of-Indices-using-Landsat8-9
+# Calculation-of-Geospatial-Indices-using-Landsat8-9
